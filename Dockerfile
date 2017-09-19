@@ -1,4 +1,4 @@
-# Dockerfile to build images that will generate a modified CNS 1.21 for XL-MS Protein assembly (XL-MOD) with a working directory set up as described as http://aria.pasteur.fr/supplementary-data/x-links/readme/view  .
+# Dockerfile to build images that will generate a modified CNS 1.21 for XL-MS Protein assembly (XL-MOD) with a working directory set up as described at http://aria.pasteur.fr/supplementary-data/x-links/readme/view  .
 # *** NOTE: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE BELOW. This Dockerfile will handle everything else needed to produce a system set up with the code at http://aria.pasteur.fr/supplementary-data/x-links ready to run. ***
 # Citation and abstract for the software:
 # Automated structure modeling of large protein assemblies using crosslinks as distance restraints.
