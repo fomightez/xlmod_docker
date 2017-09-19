@@ -11,7 +11,7 @@ Nat Methods. 2016 Jun;13(6):515-20. doi: 10.1038/nmeth.3838. Epub 2016 Apr 25.  
 **Abstract**  
 Crosslinking mass spectrometry is increasingly used for structural characterization of multisubunit protein complexes. Chemical crosslinking captures 
 conformational heterogeneity, which typically results in conflicting crosslinks that cannot be satisfied in a single model, making detailed modeling a
-challenging task. Here we introduce an automated modeling method dedicated to large protein assemblies ('XL-MOD' software is available at 
+challenging task. Here we introduce an automated modeling method dedicated to large protein assemblies (`XL-MOD` software is available at 
 http://aria.pasteur.fr/supplementary-data/x-links) that (i) uses a form of spatial restraints that realistically reflects the distribution of
 experimentally observed crosslinked distances; (ii) automatically deals with ambiguous and/or conflicting crosslinks and identifies alternative 
 conformations within a Bayesian framework; and (iii) allows subunit structures to be flexible during conformational sampling. We demonstrate our method 
