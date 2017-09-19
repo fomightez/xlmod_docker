@@ -4,10 +4,13 @@ Dockerfile to build images that will generate a modified CNS 1.21 for XL-MS Prot
 **NOTE**: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE BELOW. This Dockerfile will handle everything else to result in a freshly compiled version that will run.
 
 
-Citation and abstract for the software:  
-Automated structure modeling of large protein assemblies using crosslinks as distance restraints.  
+Citation and abstract for the software
+--------------------------------------
+
+[Automated structure modeling of large protein assemblies using crosslinks as distance restraints.  
 Ferber M, Kosinski J, Ori A, Rashid UJ, Moreno-Morcillo M, Simon B, Bouvier G, Batista PR, Müller CW, Beck M, Nilges M.
-Nat Methods. 2016 Jun;13(6):515-20. doi: 10.1038/nmeth.3838. Epub 2016 Apr 25.                    PMID: 27111507
+Nat Methods. 2016 Jun;13(6):515-20. doi: 10.1038/nmeth.3838. Epub 2016 Apr 25.                    PMID: 27111507](https://www.ncbi.nlm.nih.gov/pubmed/27111507)
+
 **Abstract**  
 Crosslinking mass spectrometry is increasingly used for structural characterization of multisubunit protein complexes. Chemical crosslinking captures 
 conformational heterogeneity, which typically results in conflicting crosslinks that cannot be satisfied in a single model, making detailed modeling a
