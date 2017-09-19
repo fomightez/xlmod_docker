@@ -26,13 +26,13 @@ the polymerase structure.
 Contents of built image
 -----------------------
 
-A Linux-based Docker container with modified, freshly compiled CNSsolve 1.21 able to run the scripts for XL-MS Protein assembly (XL-MOD)
+A Linux-based Docker container with modified, freshly compiled CNSsolve 1.21 able to run the scripts for XL-MS Protein assembly (`XL-MOD`)
 
 Includes:
 
 * Ubuntu-flavor Linux base
-* modified CNSsolve 1.21
-* working directory for XL-MOD from [here](http://aria.pasteur.fr/supplementary-data/x-links), set up as described [here](http://aria.pasteur.fr/supplementary-data/x-links/readme/view)
+* modified CNSsolve 1.21 capable of running `XL-MOD`
+* working directory for `XL-MOD` from [here](http://aria.pasteur.fr/supplementary-data/x-links), set up as described [here](http://aria.pasteur.fr/supplementary-data/x-links/readme/view)
 
 *Specific versions and sources are made clear in [the Dockerfile](https://github.com/fomightez/xlmod_docker/blob/master/Dockerfile).*  
 
