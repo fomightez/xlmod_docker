@@ -1,5 +1,5 @@
 # xlmod_docker
-Dockerfile to build images that will generate a modified CNS 1.21 for running XL-MS Protein assembly (XL-MOD) with a working directory set up as described as http://aria.pasteur.fr/supplementary-data/x-links/readme/view  .
+Dockerfile to build images that will generate a modified CNS 1.21 for running XL-MS Protein assembly (XL-MOD) with a working directory set up as described at http://aria.pasteur.fr/supplementary-data/x-links/readme/view  .
 
 **NOTE**: THE FILE `cns_solve_1.21_all-mp.tar.gz` MUST BE PROVIDED, SEE DOCKEFILE. Besides that, this Dockerfile will handle everything else to result in  modified, freshly compiled CNSsolve 1.21 able to run the scripts for XL-MS Protein assembly (XL-MOD).
 
